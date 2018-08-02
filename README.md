@@ -1,7 +1,7 @@
 # Data Visualizations In R
 This will be an example by example guide to R programming language. 
 
-The first examples will be basic in nature. In order to use this properly the CSV files will need to be downloaded.
+The first examples will be basic in nature. In order to use this properly the CSV files will need to be downloaded or I will use datasets that are buld into popular packages such as gapminder
 
 R is a statistical analysis tool, not a database tool. 
 
