@@ -16,5 +16,5 @@ R doesn't like spaces in column names. So instead of naming your column "Engine 
 
 read.csv() also assumes that the columns are separated by comma.
 
-
+Each Example will have a step by step guide in .doc format as well as a step by step guide in .r format. 
 
